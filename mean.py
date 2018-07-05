@@ -16,6 +16,5 @@ def mean(num_list):
                     Please provide a list of numbers"
         raise ZeroDivisionError(detail.__str__() + "\n" + msg)
 
-from mean import *
         
     
